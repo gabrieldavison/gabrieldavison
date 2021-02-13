@@ -1,4 +1,4 @@
-## Hi, my names Gabriel and I am a teacher turned programmer based in London.
+### Hi, my names Gabriel and I am a teacher turned programmer based in London.
 
 I love building software that aids self expression or solves a specific problem in my life.
 
