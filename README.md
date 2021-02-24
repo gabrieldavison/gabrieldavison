@@ -1,6 +1,6 @@
 ### Hi, my names Gabriel and I am a teacher turned programmer based in London.
 
-I love building software that aids self expression or solves a specific problem in my life.
+I love building software that aids self expression or helps to solve a problem.
 
 I work mostly with Javascript, React and Node.js to build full stack web applications. Lately I have also been picking up Ruby and Rails in my spare time.
 
